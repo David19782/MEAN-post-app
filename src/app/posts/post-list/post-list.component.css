@@ -1,0 +1,22 @@
+mat-spinner{
+  margin: auto
+}
+
+:host {
+  display: block;
+  margin-top: 1rem;
+}
+
+.post-image{
+  height: 100%;
+  width: 100%;
+}
+
+mat-paginator {
+  margin-top: 1rem;
+}
+
+.post-image img{
+  width: 100%;
+  box-shadow: 1px 1px rgba(0, 0, 0, 0.5);
+}
